@@ -1,2 +1,2 @@
-Quick prototype design for the rhythm game.<br />
+Quick prototype design for a rhythm game.<br />
 Assets and images found online.
