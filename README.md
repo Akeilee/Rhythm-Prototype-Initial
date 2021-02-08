@@ -1,1 +1,2 @@
-Quick prototype design using assets and images found online.
+Quick prototype design for the rhythm game.
+Assets and images found online.
