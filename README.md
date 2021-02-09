@@ -12,7 +12,8 @@ Quick prototype design for a rhythm game for the Newcastle University 3224 modul
 <a name = "screenshot"><img src="https://github.com/Akeilee/Rhythm-Prototype-Initial/blob/master/Screenshots/gamegif.gif" width = "500"></a> <br /><br />
 
 #### Asset References
-- Monster Hunter World
-- Dance Dance Revolution
+\- Monster Hunter World
+
+\- Dance Dance Revolution
 
 (Images used were found online)
