@@ -5,7 +5,7 @@ Quick prototype design for a rhythm game for the Newcastle University 3224 modul
 ### Game Demo
 <a href = "https://akeilee.github.io/Rhythm-Prototype-Initial/"><img src="https://github.com/Akeilee/Rhythm-Prototype-Initial/blob/master/Screenshots/initial.PNG" alt = "Game Link" width = "250"></a>
 
-[Link](https://akeilee.github.io/Rhythm-Prototype-Initial/)<br /><br />
+[(Link)](https://akeilee.github.io/Rhythm-Prototype-Initial/)<br /><br />
 
 
 ### Screenshot
